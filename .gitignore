@@ -1,0 +1,11 @@
+*db*
+*sqlite*
+__pycache__
+
+activate.bat
+confsec.*
+env
+migrations
+temp
+tmp
+venv
